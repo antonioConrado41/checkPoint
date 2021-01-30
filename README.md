@@ -1,4 +1,4 @@
-# checkpoint (web-based application)
+# checkpoint 
 
 ## Table of contents
 * [General info](#general-info)
